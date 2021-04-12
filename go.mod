@@ -1,4 +1,4 @@
-module github.com/axtelius/net
+module github.com/axtelius/texttv
 
 go 1.16
 
